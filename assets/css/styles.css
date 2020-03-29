@@ -1625,6 +1625,9 @@ li .fa {
        ABOUT
     ==============
 */
+.mh-about{
+	background-color: lavender;
+}
 .mh-about .mh-about-inner {
   padding-left: 50px;
 }
