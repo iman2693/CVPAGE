@@ -515,5 +515,18 @@ li.card.edu{
 .codescreen{
 	 width:100%;
 }
+#about #intro-div p{
+	text-align:center !important;
 }
+.card{
+	margin-top:50px;
+}
+}
+@media only screen and (max-width:640px){
+
+#interest ul li{
+	display:block;
+}
+}
+
 
