@@ -116,9 +116,6 @@ a:hover, a:active, a:focus{color:#00dcf8;text-decoration:none;outline:0;}
 .skill-progress{position:relative;background-color:#1c1c1c;margin:15px 0;height:3px;z-index:0;overflow:visible;}
 .skill-determinate{position:absolute;height:3px;background-color:#ffffff;}
 .skill-determinate .skill-determinate-circle{position:absolute;right:0%;top:-7px;color:#ffffff;font-size:18px;}
-
-
-
 #gallery{width:100%;height:auto;}
 #gallery ul li{color:#242424;cursor:pointer;display:inline-block;text-transform:uppercase;padding:10px 10px;}
 #gallery ul li a{color:#242424;font-weight:500;}
